@@ -1,0 +1,11 @@
+hw/**/answers/
+materials/
+readings/
+students/
+*.tex
+*.md
+*.sty
+*.zip
+*.swp
+SIRS*.pdf
+.DS_Store

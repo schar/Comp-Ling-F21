@@ -1,0 +1,3 @@
+Note: it seems that if you're on a Windows machine, directories named 'aux'
+might not be allowed. I have therefore placed brown.txt inside a directory
+named 'files' instead.

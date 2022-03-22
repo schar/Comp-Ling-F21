@@ -1,0 +1,20 @@
+$$\renewcommand{\arraystretch}{2}
+\begin{tabular}{@{}r|c|c|c|c|}
+\\[-4em]
+\multicolumn{1}{c}{~} & \multicolumn{1}{c}{\ilc{"Mary"}} &
+\multicolumn{1}{c}{\ilc{"saw"}} & \multicolumn{1}{c}{\ilc{"the"}} &
+\multicolumn{1}{c}{\ilc{"elk"}}
+\\\cline{2-5}
+\ilc{"Mary"} & \ilc{DP} & & & \ilc S
+\\\cline{2-5}
+\ilc{"saw"} & \cellcolor{blue!25} & \ilc{VT} & & \ilc{VP}
+\\\cline{2-5}
+\ilc{"the"} & \cellcolor{blue!25} & \cellcolor{blue!25} & \ilc D & \ilc{DP}
+\\\cline{2-5}
+\ilc{"elk"} & \cellcolor{blue!25} & \cellcolor{blue!25} & \cellcolor{blue!25}
+& \ilc{NP}
+\\\cline{2-5}
+\end{tabular}$$
+
+##
+
